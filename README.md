@@ -1,4 +1,4 @@
-# `uud(1)` - make a unicode dump
+# `uud(1)` - unicode dump
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
