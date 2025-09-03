@@ -1,5 +1,7 @@
 # `uud(1)` - make a unicode dump
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
 `uud` is a Unicode dumping tool inspired by `xxd(1)`, the hex dump tool
 
 ## Example usage:
@@ -97,3 +99,6 @@ $ echo '太陽能板張開' | ./bin/uud
 開  ideograph-958b
 ```
 
+## License
+
+MIT © 2025 Tobi Lehman <mail@tobilehman.com>. See `LICENSE` for details.
